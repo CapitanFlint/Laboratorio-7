@@ -231,3 +231,13 @@ Interpro es Pfam, SUpfam, prosite, uniprot y todo junto...
 
 
 Una familia d eproteinas puede tener dominios y secuencias similares, pero la funcion final no necesariemente es la misma. 
+
+
+
+
+ir a http://www.bioinformatics.org/sms2
+
+
+Luego click en mutate protein.    http://www.bioinformatics.org/sms2/mutate_protein.html
+
+
