@@ -227,3 +227,7 @@ IR A https://www.ebi.ac.uk/interpro/
 
 
 Interpro es Pfam, SUpfam, prosite, uniprot y todo junto...
+
+
+
+Una familia d eproteinas puede tener dominios y secuencias similares, pero la funcion final no necesariemente es la misma. 
