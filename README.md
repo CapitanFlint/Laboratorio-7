@@ -225,3 +225,5 @@ IR A https://www.ebi.ac.uk/interpro/
 
 
 
+
+Interpro es Pfam, SUpfam, uniprot y todo junto...
